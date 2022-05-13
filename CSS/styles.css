@@ -1,0 +1,25 @@
+body{
+  background-color: #CAF0F8
+}
+h1{
+  color: #04009A;
+}
+
+h3{
+  color: #000000;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FFC0D3;
+  height: 0;
+  width: 25%;
+  border-width: 7px;
+}
+
+  .code{
+    font-family: cursive;
+  }
+  .font{
+    font-family: cursive;
+  }
